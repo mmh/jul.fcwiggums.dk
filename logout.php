@@ -1,0 +1,3 @@
+<?
+setcookie('sessionId', '', 1, '/');
+
